@@ -8,6 +8,7 @@ public static void main(String[] args) {
 	System.out.println("Ola mundo");
 	System.out.println("teste");
 	System.out.println("3 teste");
+	System.out.println("Comit and Push");
 	
 	String word = "Word";
 	String msg = "Hello" + word +"!";
